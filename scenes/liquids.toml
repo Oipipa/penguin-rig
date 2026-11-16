@@ -1,0 +1,47 @@
+width = 256
+height = 160
+gravity = 1400.0
+tick_hz = 60.0
+speed = 1.0
+
+[[regions]]
+x = 0
+y = 0
+width = 256
+height = 8
+material = "Bedrock"
+
+[[regions]]
+x = 24
+y = 8
+width = 5
+height = 85
+material = "Stone"
+
+[[regions]]
+x = 29
+y = 8
+width = 75
+height = 55
+material = "Water"
+
+[[regions]]
+x = 104
+y = 8
+width = 4
+height = 34
+material = "Stone"
+
+[[regions]]
+x = 185
+y = 8
+width = 5
+height = 72
+material = "Stone"
+
+[[regions]]
+x = 196
+y = 8
+width = 42
+height = 34
+material = "Oil"

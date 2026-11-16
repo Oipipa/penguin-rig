@@ -1,0 +1,40 @@
+width = 256
+height = 160
+gravity = 1400.0
+tick_hz = 60.0
+speed = 1.0
+
+[[regions]]
+x = 0
+y = 0
+width = 256
+height = 8
+material = "Bedrock"
+
+[[regions]]
+x = 42
+y = 54
+width = 170
+height = 5
+material = "Wood"
+
+[[regions]]
+x = 62
+y = 59
+width = 35
+height = 18
+material = "Coal"
+
+[[regions]]
+x = 45
+y = 59
+width = 7
+height = 7
+material = "Fire"
+
+[[regions]]
+x = 142
+y = 8
+width = 35
+height = 28
+material = "Water"
