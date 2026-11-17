@@ -48,7 +48,7 @@ material = "Water"
 temperature = 50.0
 ```
 
-Coordinates start at the bottom left. Regions later in the file overwrite earlier ones. Material names ignore case, spaces, hyphens, and underscores. Grid width and height must each be 32–512 cells. The four bundled scenes live in `scenes/`.
+Grid width and height must each be 32–512 cells. The four bundled scenes are in `scenes/`.
 
 ## Library
 
